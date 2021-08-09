@@ -1,0 +1,15 @@
+bin\Debug\DicomViewers.exe
+bin\Debug\DicomViewers.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DicomViewers.Properties.Resources.resources
+obj\Debug\DicomViewer.csproj.GenerateResource.Cache
+obj\Debug\DicomViewers.exe
+obj\Debug\DicomViewers.pdb
+obj\Debug\DicomViewers.Form1.resources
+bin\Debug\Interop.DicomObjects.dll
+bin\Debug\AxInterop.DicomObjects.dll
+obj\Debug\Interop.DicomObjects.dll
+obj\Debug\AxInterop.DicomObjects.dll
+obj\Debug\DicomViewer.csproj.ResolveComReference.cache
+bin\Debug\System.Windows.Forms.TreeListView.dll
+bin\Debug\System.Runtime.InteropServices.APIs.dll
